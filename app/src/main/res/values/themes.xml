@@ -5,6 +5,8 @@
         <item name="colorPrimaryDark">#003865</item>
     </style>
 
-    <style name="Theme.ToDoList" parent="Base.Theme.ToDoList" />
+    <style name="Theme.ToDoList" parent="Base.Theme.ToDoList" >
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
 
 </resources>
