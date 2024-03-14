@@ -48,4 +48,4 @@ Feel free to connect with me on LinkedIn for more updates and discussions!
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/Raj-Pavara/TODO-List.git
